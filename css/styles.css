@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;  color: #d54d7b; font-family: 'Lobster', cursive; font-size:4vw;
+  background-color: #eff0eb;
+
+width: 1000px; height:100px; border: 1px double #c9d4b7;
+ 
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom:25px;
+    margin-left: auto;
+    }
+
+    h3 {
+      text-align: center; font-family: 'Caveat'; font-weight: bold; font-size:35px;
+    }
+
+    div { 
+      width: 1000px;
+      border: 1px double #c9d4b7;
+      background-color: #eff0eb;
+      margin: auto;
+    }
+
+    li { 
+      display: inline-block;
+      margin-right: 10px;
+      color: #778899;
+    }
+
+    .rightimg { 
+      float: right;
+      /* Выравнивание по правому краю  */
+      margin: 7px 7px 7px 7px;
+      /* Отступы вокруг картинки */
+    }
+
+    body {
+      background-image: url(img/bg.jpg);
+    }
+
+    p { 
+      margin: 0 0 0 10px; font-family: 'Comic Sans MS'; font-size:18px; font-weight: normal; 
+    }
+
+    h4 { 
+	
+      margin: 12px 0 12px 7px; font-family: 'Caveat'; font-size:35px; font-weight: normal;
+    }
+
+
+@font-face {
+font-family: "Lobster";  
+src: url("fonts/Lobster-Regular.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+ }
+
+@font-face {
+font-family: "Caveat";  
+src: url("fonts/Caveat.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal;
+
+
+
+
