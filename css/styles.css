@@ -1,5 +1,5 @@
 h1 {
-    text-align: center;  color: #d54d7b; font-family: 'Lobster', cursive; font-size:4vw;
+    text-align: center;  color: #d54d7b; font-family: 'Lobster', cursive; font-size: 50px;
   background-color: #eff0eb;
 
 width: 1000px; height:100px; border: 1px double #c9d4b7;
@@ -29,9 +29,9 @@ width: 1000px; height:100px; border: 1px double #c9d4b7;
 
     .rightimg { 
       float: right;
-      /* Выравнивание по правому краю  */
+      /* Г‚Г»Г°Г ГўГ­ГЁГўГ Г­ГЁГҐ ГЇГ® ГЇГ°Г ГўГ®Г¬Гі ГЄГ°Г Гѕ  */
       margin: 7px 7px 7px 7px;
-      /* Отступы вокруг картинки */
+      /* ГЋГІГ±ГІГіГЇГ» ГўГ®ГЄГ°ГіГЈ ГЄГ Г°ГІГЁГ­ГЄГЁ */
     }
 
     body {
